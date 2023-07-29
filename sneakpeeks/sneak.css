@@ -1,0 +1,53 @@
+.sneak-sect{
+background-color: black;
+color: yellow;
+
+}
+
+section{
+    padding-top: 150px;
+    transition: 0.5s;
+    padding-bottom: 150px;
+}
+
+section:hover{
+    background-color: #23272A;
+    border-radius: 300px;
+    transition: 0.5s all;
+}
+
+h1{
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 55px;
+}
+
+p{
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 30px;
+    font-weight: bold;
+}
+body{
+    background-color: black;
+}
+
+a{
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: inherit;
+    text-decoration: inherit;
+    text-align:center;
+    display:block;
+    color: yellow;
+}
+
+a:hover{
+    color: #0d6efd;
+}
